@@ -17,7 +17,7 @@ header {
 
 #logo {
     color: white;
-    size: 24px;
+    font-size: 24px;
     text-align: left;
     align-items: center;
     margin-right: auto;
@@ -27,7 +27,7 @@ header {
 
 #header-link {
     color: #e5e7eb;
-    size: 18px;
+    font-size: 18px;
     text-align: right;
     list-style: none;
     padding: 15px 35px;
@@ -41,14 +41,22 @@ header {
 .description {
     background-color: #1f2937;
     padding: 60px 35px;
+    
+}
+h2 {
+    font-size: 48px;
+    color: white;
+}
+
+.description > p {
+    color: #e5e7eb;
+    font-size: 18px;
 }
 
 img {
     height: 64px;
     width: 80px;
+    display: inline;
+
 }
 
-h2 {
-    size: 48px;
-    color: white;
-}
