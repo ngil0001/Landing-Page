@@ -21,7 +21,7 @@ header {
     text-align: left;
     align-items: center;
     margin-right: auto;
-    padding: 0px 35px;
+    padding: 15px 35px;
 
 }
 
@@ -30,19 +30,25 @@ header {
     size: 18px;
     text-align: right;
     list-style: none;
+    padding: 15px 35px;
 }
 #header-link li {
     display: inline;
-    padding: 0px 35px;
+    padding: 15px 35px;
     text-align: right;
 }
 
 .description {
     background-color: #1f2937;
-    padding: 0%;
+    padding: 60px 35px;
 }
 
 img {
     height: 64px;
     width: 80px;
+}
+
+h2 {
+    size: 48px;
+    color: white;
 }
