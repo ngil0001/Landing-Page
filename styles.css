@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    justify-content: flex-end;
+    padding: 30px 10%;
+}
+
+.header {
+    background-color: #1f2937;
+    padding: 0%;
+}
+
+#logo {
+    color: white;
+    size: 24px;
+    text-align: left;
+    align-items: center;
+    margin-right: auto;
+    padding: 0px 35px;
+
+}
+
+#header-link {
+    color: #e5e7eb;
+    size: 18px;
+    text-align: right;
+    list-style: none;
+}
+#header-link li {
+    display: inline;
+    padding: 0px 35px;
+    text-align: right;
+}
+
+.description {
+    background-color: #1f2937;
+    padding: 0%;
+}
+
+img {
+    height: 64px;
+    width: 80px;
+}
