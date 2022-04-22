@@ -168,6 +168,30 @@ header {
     text-align: center;
     margin-left: -255px;
     color: #f9faf8;
+    border-radius: 15px;
+}
+
+.up-button {
+    display: flex;
+    background-color: white;
+    color: #3882f6;
+    border-radius: 10px;
+    height: 30px;
+    width: 100px;
+    font-weight: bold;
+    margin-top: 15px;
+
+}
+
+footer {
+    text-align: center;
+    background-color: #1f2937;
+    margin-top: 100px;
+    padding: 25px;
+}
+
+footer p {
+    color: grey;
 }
 
 
