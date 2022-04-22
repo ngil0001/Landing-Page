@@ -84,3 +84,43 @@ header {
     font-weight: bold;
     margin-top: 15px;
 }
+
+.information h6 {
+    font-size: 36px;
+    font-weight: bolder;
+    margin-top: 25px;
+    text-align: center;
+}
+
+.info-img {
+    display: flex;
+    width: 30px;
+    height: 80px;
+
+}
+
+.one {
+    margin-right: 40px;
+    margin-left: 450px;
+    border-radius: 15px;
+    border: 2px solid #3882f6;
+}
+
+.two {
+    margin-right: 40px;
+    border-radius: 15px;
+    border: 2px solid #3882f6;
+}
+
+.three {
+    
+    border: 2px solid #3882f6;
+    margin-right: 40px;
+    border-radius: 15px;
+}
+
+.four {
+    margin-right: 150px;
+    border-radius: 15px;
+    border: 2px solid #3882f6;
+}
