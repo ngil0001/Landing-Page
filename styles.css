@@ -89,14 +89,14 @@ header {
     font-size: 36px;
     font-weight: bolder;
     margin-top: 25px;
-    text-align: center;
+    text-align: center
 }
 
 .info-img {
     display: flex;
     width: 30px;
     height: 80px;
-
+    margin-top: 25px;
 }
 
 .one {
