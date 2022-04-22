@@ -124,3 +124,25 @@ header {
     border-radius: 15px;
     border: 2px solid #3882f6;
 }
+
+.quote {
+    margin-top: 250px;
+    background-color: #E5E7EB;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    padding: 150px;
+}
+ #author {
+     font-style: none;
+     font-weight: bold;
+     color: #1f2937;
+     font-size: 18px;
+     text-align: right;
+     padding-top: 15px;
+     margin-right: 25px;
+ }
+
